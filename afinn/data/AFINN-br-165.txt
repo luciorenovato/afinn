@@ -1,0 +1,4 @@
+bom +2
+ruim -2
+legal +4
+triste -4
